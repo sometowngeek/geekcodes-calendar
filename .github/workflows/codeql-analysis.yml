@@ -14,7 +14,7 @@ name: "CodeQL"
 on:
   push:
     branches:
-      - master
+      - main
     paths:
       - '**'
       - '!README.md'

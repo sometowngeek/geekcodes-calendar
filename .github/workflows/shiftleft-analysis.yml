@@ -7,7 +7,7 @@ name: SL Scan
 on:
   push:
     branches:
-      - master
+      - main
     paths:
       - '**'
       - '!README.md'
